@@ -75,7 +75,6 @@ Cloud Functions | Realtime Database | Crashlytics | Cloud Messaging
   - TOEIC: 795点(2016年)
 
 ## やったことはないが興味があるもの
-- Docker
 - CI/CD
 
 ## 職務経歴
