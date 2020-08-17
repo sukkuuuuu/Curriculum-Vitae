@@ -79,7 +79,7 @@ Cloud Functions | Realtime Database | Crashlytics | Cloud Messaging
 
 ## 職務経歴
 
-### 2020/01 - 現在 : フリーランス
+### 2020/01 - 2020/06 : フリーランス
 ### 概要
 |key|value|
 |---|-----|
