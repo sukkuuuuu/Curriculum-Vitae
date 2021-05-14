@@ -61,7 +61,7 @@ Cloud Functions | Realtime Database | Crashlytics | Cloud Messaging
 |基本情報処理技術者|2017/04|
 |Java Silver|2017/12|
 
-### その他
+### その他興味のあること
 - CSS設計
 - TDD
 - DDD
@@ -79,6 +79,73 @@ Cloud Functions | Realtime Database | Crashlytics | Cloud Messaging
 
 ## 職務経歴
 
+### 2020/10 - 現在: 正社員
+### 概要
+|key|value|
+|---|-----|
+|業界（業種）|理美容|
+|契約形態|正社員|
+|業務内容|理美容業界向けPOSアプリ開発|
+|プロジェクト規模|9~14名|
+|役割|メンバー|
+|職種|アプリケーションエンジニア|
+
+### 詳細
+#### 担当工程
+基本設計〜運用保守
+
+#### OS
+- Linux（本番環境）
+- Mac（開発端末）
+
+#### 言語
+- Swift
+- Objective-C
+- JavaScript(ES6)
+- PHP7系
+- Java1.8
+- Kotlin
+- SQL
+
+#### DB
+- Aurora(PostgresSQL)
+
+#### FW, MW, ツール, その他
+- Vue.js
+- CodeIgniter
+- Apache
+- Tomcat
+- AWS(EC2 | RDS | S3 | WorkSpace)
+- Firebase(Cloud Functions | Realtime Database | Crashlytics | Cloud Messaging)
+- Docker
+- fastlane
+- SQLite
+- Realm
+- Xcode
+- VSCode
+- Redmine
+- Backlog
+- Slack
+
+#### PJ詳細
+理美容業界向けPOSアプリ開発及び付帯サービス開発・運用保守。
+導入店舗数約3000件のPOSアプリの新規機能開発・改修等。
+
+
+#### 作業内容詳細/役割
+iOS開発の中心メンバーとして、設計・製造・コードレビュー・テスト仕様書作成を担当。
+AppStoreへの申請・バックエンドモジュールのリリース作業。
+お客様問合せ時の調査。各種ドキュメント作成。
+並行で2017/07 - 2019/10の期間開発していたアプリの改修・保守。
+
+#### 習得技術
+- fastlaneでCI環境構築
+- レガシーコードに対するコードリーディング
+- テスト駆動開発
+- フロントとバックエンド両方を意識した設計・製造
+- 運用保守・継続的な開発を考慮した製造
+
+---
 ### 2020/01 - 2020/06 : フリーランス
 ### 概要
 |key|value|
@@ -144,7 +211,7 @@ Cloud Functions | Realtime Database | Crashlytics | Cloud Messaging
 - jQuery
 
 ---
-### 2017/07 - 2019/10: Sier企業の自社サービス部門
+### 2017/07 - 2019/10: 正社員
 ### 概要
 |key|value|
 |---|-----|
