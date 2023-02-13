@@ -12,6 +12,7 @@
 2〜5人程の小規模の開発メンバーをリードした経験もあります。
 モバイルアプリ/Webフロントからバックエンドまで開発の経験があることと、
 異なる言語で実装された複数のプロダクトの開発・改修をしており、柔軟に対応することができます。
+2023年2月時点ではWebフロントエンド領域をメインに業務をしています。
 プロダクトの長期的な成功や成長を意識して、設計・製造に取り組むことが好きです。
 積極的にテストコードを書き、品質の安定と開発スピードの両立を目指し、日々のタスクを行います。
 本番環境リリースや運用保守・障害調査の経験があるため、作業自動化や実運用を考慮した設計・開発をすることができます。
@@ -33,6 +34,9 @@
 - SQL
 
 ### フレームワーク
+- React
+- Redux
+- Next.js
 - Vue.js
 - CodeIgniter
 - jQuery
@@ -50,12 +54,14 @@ EC2 | RDS | CodeCommit | S3
 Cloud Functions | Realtime Database | Crashlytics | Cloud Messaging
 
 ### ツール
-- Git
+- Git（GitHub）
+- ClickUp
+- Redmine
+- Slack
+- Google WorkSpace
 - BitBucket(Stash)
 - Backlog
-- Redmine
 - Trello
-- Slack
 - Google Tag Manager
 - Google Analytics
 - Repro
